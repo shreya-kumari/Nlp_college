@@ -1,7 +1,7 @@
 # Nlp_college
-# Hands-on tasks covered during Fall Semester 2020-21
-#  by: Shreya Kumari - 18BIT0117 
-# Faculty: Sharmila Banu K
+                                          Hands-on tasks covered during Fall Semester 2020-21
+                                               by: Shreya Kumari - 18BIT0117 
+                                                 Faculty: Sharmila Banu k
 
 17/7/2020 INTRO TO HANDS ON AND INSTALLING NLTK
 
